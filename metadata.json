@@ -1,0 +1,6 @@
+{
+  "name": "NexusHR OS - Plataforma RRHH",
+  "description": "Plataforma SaaS multi-tenant y white-label de gestión integral de recursos humanos con 10 módulos core y control de accesos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

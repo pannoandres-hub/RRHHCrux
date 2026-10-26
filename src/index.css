@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+:root {
+  --app-font-family: 'Plus Jakarta Sans', sans-serif;
+  --app-font-size: 14px;
+}
+
+body, button, input, select, textarea, div, p, span, h1, h2, h3, h4, h5, h6, table, th, td {
+  font-family: var(--app-font-family);
+}
+
+html, body {
+  font-size: var(--app-font-size);
+}
